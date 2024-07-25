@@ -1,1 +1,2 @@
 This is a Machine Learning model to prdict the quality of water using RandomForestClassifier from scikit learn library.
+The dataset is in water_quality.csv 
